@@ -11,8 +11,6 @@ I'm a passionate coder and software enthusiast with a love for creating innovati
 
 
 ## 📫 Connect with Me
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
-- [Personal Website/Blog](your-website-url)
+- [LinkedIn](https://www.linkedin.com/in/raj-gour-a4881232a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 Feel free to check out my repositories and reach out if you'd like to collaborate or just chat about tech!
