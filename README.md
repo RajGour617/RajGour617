@@ -7,7 +7,7 @@ I'm a passionate coder and software enthusiast with a love for creating innovati
 - Pattern making, problem solving, analytical skills
 
 ## 🌱 Currently Learning
-- Currently I am learning DSA using C++ and MYSQL.
+- Currently I am learning SQL and DSA using C++.
 
 
 ## 📫 Connect with Me
