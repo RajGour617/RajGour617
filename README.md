@@ -4,13 +4,13 @@ I'm a passionate coder and software enthusiast with a love for creating innovati
 
 ## 🔧 Skills
 - **Languages:** C, C++, SQL, Java
-- Pattern making, problem solving, analytical skills
+- Problem solving, analytical skills
 
 ## 🌱 Currently Learning
 - Currently I am learning Java and DSA.
 
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/raj-gour-a4881232a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [LinkedIn](www.linkedin.com/in/rajgour617)
 
 Feel free to check out my repositories and reach out if you'd like to collaborate or just chat about tech!
