@@ -4,11 +4,11 @@ I'm a passionate coder and software enthusiast with a love for creating innovati
 
 ## 🔧 Skills
 - **Languages:** C++, MySQL, Java
-- **Web Developmant:** Spring, Spring Boot, Hibernate, JPA, JSP, Servlet, JDBC, REST APIs, HTML, CSS, Javascript
+- **Web Development:** Spring, Spring Boot, Hibernate, JPA, JDBC, REST APIs, React, Tailwind CSS
 - **Soft Skills:** Communication, Problem solving, analytical skills
 
 ## 🌱 Currently Learning
-- Currently I am learning Java Web Development and DSA.
+- Currently I am learning Java Full-Stack Development and DSA.
 
 
 ## 📫 Connect with Me
