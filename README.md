@@ -4,7 +4,7 @@ I'm a passionate coder and software enthusiast with a love for creating innovati
 
 ## 🔧 Skills
 - **Languages:** C++, MySQL, Java
-- **Web Development:** Spring, Spring Boot, Hibernate, JPA, JDBC, REST APIs, React, Tailwind CSS
+- **Web Development:** Spring Boot, Hibernate, JPA, JDBC, REST APIs, React, Tailwind CSS
 - **Soft Skills:** Communication, Problem solving, analytical skills
 
 ## 🌱 Currently Learning
@@ -12,7 +12,7 @@ I'm a passionate coder and software enthusiast with a love for creating innovati
 
 
 ## 📫 Connect with Me
-- [Email ID](rajgour617@gmail.com)
+- [Email ID](mailto:rajgour617@gmail.com)
 - [LinkedIn](www.linkedin.com/in/rajgour617)
 - [Portfolio](https://rajgour617.github.io/Portfolio/)
 
