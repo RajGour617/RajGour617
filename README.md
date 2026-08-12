@@ -75,15 +75,20 @@ A full-stack tourism platform designed to showcase India's cultural heritage, de
 
 **Tech:** `JavaScript` `HTML` `CSS` `JSON` `REST APIs`
 
-🔗 [View Project](https://rajgour617.github.io/)
+🔗 [View Project](https://rajgour617.github.io/Explore-Bharat/)
 
 ---
 
-### 📊 Attendance Manager
+## LeetCode Stats
+<p align="center">
+  <img width="564" height="247" alt="image" src="https://github.com/user-attachments/assets/70b16b2d-c702-41a9-b2cb-ff9e400b02f7" />
+</p>
 
-A web application for managing student attendance with authentication, session management, and an MVC-based architecture.
-
-**Tech:** `Java` `JSP` `Servlets` `JDBC` `MySQL`
+---
+## LeetCode Streak
+<p align="center">
+  <img width="1100" height="230" alt="image" src="https://github.com/user-attachments/assets/51239416-0eb0-49cb-bf47-d8fc72144d32" />
+</p>
 
 ---
 
