@@ -87,7 +87,7 @@ A full-stack tourism platform designed to showcase India's cultural heritage, de
 ---
 ## LeetCode Streak
 <p align="center">
-  <img width="1100" height="230" alt="image" src="https://github.com/user-attachments/assets/51239416-0eb0-49cb-bf47-d8fc72144d32" />
+  <img width="1130" height="246" alt="image" src="https://github.com/user-attachments/assets/dade446a-9656-46ea-ac42-dd40988a20b1" />
 </p>
 
 ---
