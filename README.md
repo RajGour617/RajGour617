@@ -81,7 +81,7 @@ A full-stack tourism platform designed to showcase India's cultural heritage, de
 
 ## LeetCode Stats
 <p align="center">
-  <img width="564" height="247" alt="image" src="https://github.com/user-attachments/assets/70b16b2d-c702-41a9-b2cb-ff9e400b02f7" />
+  <img width="555" height="240" alt="image" src="https://github.com/user-attachments/assets/f34f72b4-76a3-45d6-bf50-4883f0a3c50d" />
 </p>
 
 ---
@@ -95,7 +95,7 @@ A full-stack tourism platform designed to showcase India's cultural heritage, de
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RajGour617&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=RajGour617&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -111,7 +111,7 @@ A full-stack tourism platform designed to showcase India's cultural heritage, de
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:[rajgour617@gmail.com](mailto:rajgour617@gmail.com)">
+  <a href="mailto:rajgour617@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rajgour617">
