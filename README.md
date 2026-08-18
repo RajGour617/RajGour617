@@ -95,7 +95,7 @@ A full-stack tourism platform designed to showcase India's cultural heritage, de
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RajGour617&theme=dark&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=RajGour617&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
