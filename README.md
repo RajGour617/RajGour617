@@ -52,9 +52,9 @@ Java Full-Stack Development
         ↓
 Spring Boot & REST APIs
         ↓
-React & Modern Frontend
+      React
         ↓
-Spring AI
+    Spring AI
 ```
 
 ---
@@ -129,7 +129,6 @@ A full-stack tourism platform designed to showcase India's cultural heritage, de
 > **"Build. Break. Learn. Improve. Repeat."**
 
 I believe the best way to become a better developer is to keep building, keep solving problems, and keep learning from every challenge.
-
 ---
 
 ### ⭐ Thanks for visiting my profile!
