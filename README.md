@@ -135,6 +135,8 @@ I believe the best way to become a better developer is to keep building, keep so
 
 If you find any of my projects interesting, feel free to ⭐ the repository or connect with me. I'm always open to learning, collaborating, and building something useful together.
 
+---
+
 <p align="center">
   <b>Let's build something awesome! 🚀</b>
 </p>
