@@ -73,7 +73,7 @@ A web-based platform designed to digitize and simplify voter verification and re
 
 A full-stack tourism platform designed to showcase India's cultural heritage, destinations, and local artisan products.
 
-**Tech:** `JavaScript` `HTML` `CSS` `JSON` `REST APIs`
+**Tech:** `HTML` `CSS` `JavaScript`
 
 🔗 [View Project](https://rajgour617.github.io/Explore-Bharat/)
 
